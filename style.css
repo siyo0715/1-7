@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
   }
+
   .main-visual {
     height: 400px;
     width: 100%;
@@ -10,9 +11,11 @@
     background-size: cover;
     background-position: bottom;
   }
+
   .headline {
     padding: 20px;
   }
+  
   main {
     width: 840px;
     margin: 50px auto;
